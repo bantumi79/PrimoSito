@@ -39,6 +39,7 @@ gem 'materialize-sass'
 gem 'jquery-turbolinks'
 gem 'coffee-script-source', '1.8.0'
 gem 'devise'
+gem 'bcrypt'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
