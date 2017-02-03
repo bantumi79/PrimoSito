@@ -38,6 +38,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'materialize-sass'
 gem 'jquery-turbolinks'
 gem 'coffee-script-source', '1.8.0'
+gem 'devise'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
